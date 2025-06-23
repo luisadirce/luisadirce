@@ -11,7 +11,7 @@ Tenho experiência com as seguintes tecnologias:
 - **Bootstrap**
 - **Git**
 - **SQL**
-- **APIs**
+- **RESTful APIs**
 
 
 ## Sobre mim
