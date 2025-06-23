@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! Eu sou a Luisa Dirce 👋
 
-<!--
-**luisadirce/luisadirce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Front End apaixonada por criar experiências digitais incríveis!  
+Tenho experiência com as seguintes tecnologias:
 
-Here are some ideas to get you started:
+- **HTML**
+- **CSS**
+- **SASS**
+- **JavaScript**
+- **Vue.js**
+- **Bootstrap**
+- **Git**
+- **SQL**
+- **APIs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Sobre mim
+
+- 🎨 Amo transformar ideias em interfaces funcionais e atraentes.
+- 🚀 Sempre buscando aprender e evoluir no front-end.
+- 🤝 Aberta para colaborações e novos desafios.
+
+## Entre em contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/luisa-dirce/)
+
+---
+
+<div align="center">
+
+Feito com 💻 por Luisa Dirce
+
+</div>
